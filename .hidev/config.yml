@@ -3,7 +3,7 @@ package:
     namespace:      hiqdev\hidev\config
     label:          HiQDevConfig
     headline:       DEPRECATED
-    title:          Deprecated in favour of hiqdev/hidev-hiqdev
+    title:          Deprecated in favour of [hiqdev/hidev-hiqdev]
     type:           yii2-extension
     keywords:       hiqdev, hidev, config
     year:           2015

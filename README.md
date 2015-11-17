@@ -1,7 +1,7 @@
 DEPRECATED
 ==========
 
-**Deprecated in favour of hiqdev/hidev-hiqdev**
+**Deprecated in favour of [hiqdev/hidev-hiqdev]**
 
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/hidev-config/v/stable)](//packagist.org/packages/hiqdev/hidev-config)
 [![Total Downloads](https://poser.pugx.org/hiqdev/hidev-config/downloads)](//packagist.org/packages/hiqdev/hidev-config)

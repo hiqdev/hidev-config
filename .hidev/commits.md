@@ -3,6 +3,7 @@ hiqdev/hidev-config commits history
 
 ## Under development
 
+    - dbe8868 2015-11-17 deprecating (sol@hiqdev.com)
 
 ## 0.1.2 2015-11-09
 

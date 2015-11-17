@@ -1,7 +1,7 @@
 {
     "name": "hiqdev/hidev-config",
     "type": "yii2-extension",
-    "description": "Deprecated in favour of hiqdev/hidev-hiqdev",
+    "description": "Deprecated in favour of [hiqdev/hidev-hiqdev]",
     "keywords": [
         "hiqdev",
         "hidev",
