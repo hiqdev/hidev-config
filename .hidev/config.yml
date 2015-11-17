@@ -2,23 +2,15 @@ package:
     name:           hidev-config
     namespace:      hiqdev\hidev\config
     label:          HiQDevConfig
-    headline:       HiDev HiQDev config
-    title:          HiQDev vendor configuration for HiDev
+    headline:       DEPRECATED
+    title:          Deprecated in favour of hiqdev/hidev-hiqdev
     type:           yii2-extension
     keywords:       hiqdev, hidev, config
     year:           2015
     description:    |
         [HiDev](https://github.com/hiqdev/hidev) is a task runner, code generator and build tool for easier continuos integration.
-        This plugin provides [HiQDev](https://github.com/hiqdev) vendor configuration for HiDev.
-        Used for HiQDev packages. Can be used as template for configs of other vendors.
 
-        Provides information about HiQDev:
-        * general data: vendor name and company title
-        * contact data: email, forum, github page
-        * authors data: names, roles, emails, github and home pages
-        * default license: BSD-3-Clause
-
-        See [src/config.yml](src/config.yml).
+        Use [hiqdev/hidev-hiqdev](https://github.com/hidev-hiqdev) instead.
 
 require:
     hiqdev/hidev-config-php:    "*"
