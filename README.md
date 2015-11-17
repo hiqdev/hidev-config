@@ -35,4 +35,4 @@ Read more [here](http://choosealicense.com/licenses/bsd-3-clause).
 
 Copyright © 2015, HiQDev (http://hiqdev.com/)
 
-[hiqdev/hidev-hiqdev](https://github.com/hiqdev/hidev-hiqdev)
+[hiqdev/hidev-hiqdev]: https://github.com/hiqdev/hidev-hiqdev
