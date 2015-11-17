@@ -8,7 +8,7 @@ DEPRECATED
 
 [HiDev](https://github.com/hiqdev/hidev) is a task runner, code generator and build tool for easier continuos integration.
 
-Use [hiqdev/hidev-hiqdev](https://github.com/hidev-hiqdev) instead.
+Use [hiqdev/hidev-hiqdev] instead.
 
 ## Installation
 
@@ -34,3 +34,5 @@ This project is released under the terms of the BSD-3-Clause [license](LICENSE).
 Read more [here](http://choosealicense.com/licenses/bsd-3-clause).
 
 Copyright © 2015, HiQDev (http://hiqdev.com/)
+
+[hiqdev/hidev-hiqdev](https://github.com/hiqdev/hidev-hiqdev)

@@ -10,7 +10,7 @@ package:
     description:    |
         [HiDev](https://github.com/hiqdev/hidev) is a task runner, code generator and build tool for easier continuos integration.
 
-        Use [hiqdev/hidev-hiqdev](https://github.com/hidev-hiqdev) instead.
+        Use [hiqdev/hidev-hiqdev] instead.
 
 require:
     hiqdev/hidev-config-php:    "*"
