@@ -1,7 +1,7 @@
 DEPRECATED
 ==========
 
-**Deprecated in favour of [hidev-hiqdev]**
+**Deprecated in favour of [hidev-vendor]**
 
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/hidev-config/v/stable)](//packagist.org/packages/hiqdev/hidev-config)
 [![Total Downloads](https://poser.pugx.org/hiqdev/hidev-config/downloads)](//packagist.org/packages/hiqdev/hidev-config)
@@ -35,4 +35,4 @@ Read more [here](http://choosealicense.com/licenses/bsd-3-clause).
 
 Copyright © 2015, HiQDev (http://hiqdev.com/)
 
-[hidev-hiqdev]: https://github.com/hiqdev/hidev-hiqdev
+[hidev-hiqdev]: https://github.com/hiqdev/hidev-vendor
